@@ -3,10 +3,10 @@
 <h1 align="center">Hi there, I'm SAMBARAN DAS 👋</h1>
 <h3 align="center">Passionate about Machine Learning Engineer | Based in India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sambaran04&label=Profile%20views&color=0e75b6&style=flat" alt="sambaran04" /> 
 </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg">
 
 - 🌱 I’m currently learning **MLOps**
 - 💬 Ask me about **Python, SQL**
