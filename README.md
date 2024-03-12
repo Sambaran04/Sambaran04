@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/Sambaran04/Sambaran04/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
+![MasterHead]()
 
 <h1 align="center">Hi there, I'm SAMBARAN DAS 👋</h1>
 <h3 align="center">Passionate about Machine Learning Engineer | Based in India</h3>
