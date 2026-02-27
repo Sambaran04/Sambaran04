@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/Sambaran04/Sambaran04/main/Profile%20Banner.png)
 
 <h1 align="center">Hi there, I'm SAMBARAN DAS 👋</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | Based in India</h3>
+<h3 align="center">Machine Learning Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/60257288/169688266-0dba71e8-949d-4bc6-a048-0059ef1f994b.jpg">
 <p align="left"> 
@@ -9,13 +9,13 @@
 </p>
 
 - 🌱 I’m currently learning **MLOps**
-- 💬 Ask me about **Python, SQL**
+- 💬 Ask me about **Python, MySQL, Generative AI**
 - 📫 How to reach me: **sambarandasmails@gmail.com**
 - ⚡ Fun fact: **I love to Travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/sambaran-das-663881173" target="_blank">
+  <a href="https://linkedin.com/in/sambaran-das/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/sambarandas" target="_blank">
